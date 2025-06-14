@@ -1,7 +1,4 @@
-#mi lista de bloque DNS
-#Lista de URL de Apuestas Ilegales Colombia
-#Coljuegos junio 2025
-
+# mi lista de bloqueo DNS
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -16,8 +13,7 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-
-######
+#lista de URL
 
 0.0.0.0 bet365.com
 0.0.0.0 sunvegascasino.com
@@ -2712,7 +2708,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 flashscore.si
 0.0.0.0 flashscore.se
 0.0.0.0 flashscore.org
-0.0.0.0 flashscore.co.id??
+0.0.0.0 flashscore.co.id
 0.0.0.0 tricolorpoker.com.co
 0.0.0.0 betdod.com
 0.0.0.0 sport-win.com
@@ -8725,7 +8721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gratogana.es
 0.0.0.0 gamblingparadise.net
 0.0.0.0 bet777.es
-0.0.0.0 apuesta-deportiva-com
+0.0.0.0 apuesta-deportiva.com
 0.0.0.0 sisal.es
 0.0.0.0 betrivers.ca
 0.0.0.0 strafe.com
@@ -9760,7 +9756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deutscheonlinecasino.de
 0.0.0.0 findcasinosnow.com
 0.0.0.0 lescasinosenlignefiables.fr
-0.0.0.0 ratingcasino-games
+0.0.0.0 ratingcasino-games.com
 0.0.0.0 casino-top-uk.com
 0.0.0.0 casinoz.review
 0.0.0.0 casinozca.com
@@ -11669,7 +11665,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oddsbonusar.eu
 0.0.0.0 nyenorskecasinoer.com
 0.0.0.0 svenskaspelsidor.org
-0.0.0.0 utl?▒ndska.casino
+0.0.0.0 utlÃ¤ndska.casino
 0.0.0.0 casinomedswish.se
 0.0.0.0 se.online-topcasino.com
 0.0.0.0 nyecasinoeridanmark.dk
@@ -13115,11 +13111,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobilebettingsite.com
 0.0.0.0 footballpredictions.com
 0.0.0.0 dugoutcentral.com
-0.0.0.0 utl?▒ndskacasino.net
+0.0.0.0 utlÃ¤ndskacasino.net
 0.0.0.0 mobilakasinon.se
 0.0.0.0 casinobest.io
 0.0.0.0 casinotopp10.nu
-0.0.0.0 b?▒stacasinoutansvensklicens.net
+0.0.0.0 bÃ¤stacasinoutansvensklicens.net
 0.0.0.0 everydayslots.net
 0.0.0.0 spielhallentest.com
 0.0.0.0 unitedprofessionals.org
@@ -13241,7 +13237,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e-sportfogadas.org
 0.0.0.0 somagyarkaszino.com
 0.0.0.0 casinoble.hu
-0.0.0.0 onlinesportfogad?¦s.com
+0.0.0.0 onlinesportfogadÃ¡s.com
 0.0.0.0 betwin-hu.com
 0.0.0.0 bet-experts.com
 0.0.0.0 kaszinoworld.com
@@ -13674,7 +13670,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kasinorobotti.com
 0.0.0.0 pelitjabonukset.com
 0.0.0.0 zimpler-pikakasino.com
-0.0.0.0 vedonly??ntibonukset.org
+0.0.0.0 vedonlyÃ¶ntibonukset.org
 0.0.0.0 bet-bonus-code.ie
 0.0.0.0 playstival.ie
 0.0.0.0 legalbetie.com
@@ -13725,7 +13721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kasinonetti.net
 0.0.0.0 kasinot2023.com
 0.0.0.0 pitkavetovihjeet.org
-0.0.0.0 urheiluvedonly??nti.fi
+0.0.0.0 urheiluvedonlyÃ¶nti.fi
 0.0.0.0 norskevinnerebonus.com
 0.0.0.0 spilleselskap.com
 0.0.0.0 xbookmakere.com
@@ -13801,7 +13797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 superkasinot.com
 0.0.0.0 uudetpikakasinot.com
 0.0.0.0 laatukasinot.com
-0.0.0.0 kasinoilmanlisenssi?▒.com
+0.0.0.0 kasinoilmanlisenssiÃ¤.com
 0.0.0.0 uudet-pikakasinot-fi.com
 0.0.0.0 uusipikakasino.com
 0.0.0.0 kasinot-ilman-rekisteroitymista-fi.com
@@ -13906,7 +13902,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gamers.nu
 0.0.0.0 nordicnatcasino.se
 0.0.0.0 starcasinon.se
-0.0.0.0 n?▒tcasinot.net
+0.0.0.0 nÃ¤tcasinot.net
 0.0.0.0 51fortuneclock.com
 0.0.0.0 sharpgambler.co.uk
 0.0.0.0 bestuk.casino
@@ -13956,7 +13952,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nordicbet-casino.dk
 0.0.0.0 kasiinoonline.ee
 0.0.0.0 casinofreespinsonline24.se
-0.0.0.0 n?▒tcasinoguide.se
+0.0.0.0 nÃ¤tcasinoguide.se
 0.0.0.0 bastanatcasinos.com
 0.0.0.0 stockholmallin.com
 0.0.0.0 onlinekazino.ninja
@@ -14071,7 +14067,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 casinon.info
 0.0.0.0 casinoinfo.se
 0.0.0.0 bonus-kampanjkod.se
-0.0.0.0 b?▒stbonusar.com
+0.0.0.0 bÃ¤stbonusar.com
 0.0.0.0 betssoncasino-tr.top
 0.0.0.0 nodepositrealmoney.com
 0.0.0.0 cansinocanada.com
@@ -14164,7 +14160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 casinotester.se
 0.0.0.0 betbonus.se
 0.0.0.0 svensklicens.com
-0.0.0.0 n?▒tbingo.info
+0.0.0.0 nÃ¤tbingo.info
 0.0.0.0 spelkonto.com
 0.0.0.0 ontarioluck.com
 0.0.0.0 casinofindr.com
@@ -16836,7 +16832,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1wij.com
 0.0.0.0 1wkn.com
 0.0.0.0 iw1n.com
-0.0.0.0 1w?¢n.com
+0.0.0.0 1wÃ®n.com
 0.0.0.0 1wim.com
 0.0.0.0 1wirn.com
 0.0.0.0 1-win.com
@@ -17074,7 +17070,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cwin8.com
 0.0.0.0 cwin9.com
 0.0.0.0 swin.com
-0.0.0.0 cw??n.com
+0.0.0.0 cwÃ¯n.com
 0.0.0.0 xwin.com
 0.0.0.0 casino6.net
 0.0.0.0 casinos.net
@@ -17163,7 +17159,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 casinog.online
 0.0.0.0 casinoz.online
 0.0.0.0 casinoo.online
-0.0.0.0 casin??.online
+0.0.0.0 casinÃ².online
 0.0.0.0 cazino.online
 0.0.0.0 xasino.online
 0.0.0.0 riobet2.com
